@@ -37,13 +37,13 @@ To run this project, you will need the following software and resources:
 You can provide examples and instructions on how to use the project here.
 
 # Features
-Membership management
-Member login functionality
-MVC (Model-View-Controller) design
-Entity Framework Core for database operations
-Role-based authorization
-User authentication
-Cookie-based user session management
+1- Membership management
+2 - Member login functionality
+3 - MVC (Model-View-Controller) design
+4 - Entity Framework Core for database operations
+5 - Role-based authorization
+6 - User authentication
+7 - Cookie-based user session management
 
 ## Contributing
 
