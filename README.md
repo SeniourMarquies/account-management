@@ -21,6 +21,7 @@ To run this project, you will need the following software and resources:
 ### Installation
 
 1. Clone this repository to your local machine:
+   
 
    ```bash
    git clone https://github.com/user/project-name.git
@@ -28,6 +29,8 @@ To run this project, you will need the following software and resources:
 
  1 - Open the project in Visual Studio.
  2 - Use the Package Manager Console to create the database and seed it with sample data:
+
+
 
  ```bash
   Update-Database
