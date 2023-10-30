@@ -33,7 +33,8 @@ To run this project, you will need the following software and resources:
 
 ```bash
 # Run the following command to update the database and seed it with sample data.
-Update-Database ```
+Update-Database
+```
 
  
 
