@@ -31,10 +31,10 @@ To run this project, you will need the following software and resources:
  2 - Use the Package Manager Console to create the database and seed it with sample data:
 
 
+```bash
+# Run the following command to update the database and seed it with sample data.
+Update-Database ```
 
- ```bash
-  Update-Database
- ```
  
 
 ## Usage
