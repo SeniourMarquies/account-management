@@ -29,7 +29,7 @@ To run this project, you will need the following software and resources:
  1 - Open the project in Visual Studio.
  2 - Use the Package Manager Console to create the database and seed it with sample data:
 
-   ```bash
+   ```c
   Update-Database
  ```
  
