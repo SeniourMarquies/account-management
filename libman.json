@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "toastr.js@2.1.4",
+      "destination": "wwwroot/lib/toastr.js/"
+    },
+    {
+      "library": "font-awesome@6.4.2",
+      "destination": "wwwroot/lib/font-awesome/"
+    }
+  ]
+}
