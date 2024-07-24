@@ -1,7 +1,7 @@
-# nop.gg
+# account-management
 # Project Name
 
-Project Description: A brief description of your project can go here.
+Project Description: Simple account-management app 
 
 ## Getting Started
 
