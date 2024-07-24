@@ -1,5 +1,4 @@
 # account-management
-# Project Name
 
 Project Description: Simple account-management app 
 
