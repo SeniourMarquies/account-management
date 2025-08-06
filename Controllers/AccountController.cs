@@ -97,7 +97,7 @@ namespace nop.gg.Controllers
                 if (_databaseContext.Users.Any(x => x.Username.ToLower() == model.Username.ToLower()))
                 {
                     ModelState.AddModelError(nameof(model.Username), "Username is already in use.");
-                    View(model);
+                    return View(model);
                 }
 
                 // Hash the provided password using MD5.
